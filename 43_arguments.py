@@ -1,4 +1,4 @@
-#Lets refactor the code of class 43
+#Lets refactor the code of class 42
 
 def addition(x,y):
     #The variables x,y will only exists inside the function addition(x,y)
@@ -17,6 +17,6 @@ Traceback (most recent call last):
 TypeError: addition() missing 2 required positional arguments: 'x' and 'y'
 
 """
-
+#The arguments are assigned accordint to its positions.
 
 addition(x_,y_)
